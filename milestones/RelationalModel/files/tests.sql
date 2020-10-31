@@ -13,7 +13,7 @@
 -- Error Code: 1175. You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column.  
 -- To disable safe mode, toggle the option in Preferences -> SQL Editor and reconnect.
 
-DELETE FROM `Customer Address` WHERE country = 'Canada';
+#DELETE FROM `Customer Address` WHERE country = 'Canada';
 
 UPDATE `Customer Address` SET number = 2525 WHERE street = 'Alderwood Dr';
 
