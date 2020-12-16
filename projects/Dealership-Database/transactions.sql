@@ -18,4 +18,5 @@ UPDATE Mechanic  SET salary = '$45 per hour'  WHERE mechanic_id = 1 ;
 INSERT INTO Account (username, password, account_type) VALUES (AhmadCR7, cool , Customer );I
 INSERT INTO Account (username, password, account_type) VALUES (jose, nice23, Customer );
 INSERT INTO Account (username, password, account_type) VALUES (Ahmad , afghan, Customer );
-INSERT INTO Account (username, password, account_type) VALUES (aaa, bbb, Customer );INSERT INTO Account (username, password, account_type) VALUES (test100, 1234, Customer);INSERT INTO Account (username, password, account_type) VALUES (, , );
+INSERT INTO Account (username, password, account_type) VALUES (aaa, bbb, Customer )
+INSERT INTO Account (username, password, account_type) VALUES (test100, 1234, Customer);

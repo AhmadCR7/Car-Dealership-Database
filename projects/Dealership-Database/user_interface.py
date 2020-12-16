@@ -47,7 +47,6 @@ def show_table_names(tables):
 def CreateAccount():
     try:
         # get user input
-
         username = input("\nusername: ")
         password = input("\npassword: ")
         account_type = input("\nAccount Type: ")
